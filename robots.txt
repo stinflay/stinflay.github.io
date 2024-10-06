@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://stinflay.github.io/sitemap.html.gz
+Sitemap: https://stinflay.github.io/app/sitemap.html.gz
+Sitemap: https://stinflay.github.io/assets/sitemap.html.gz
+Sitemap: https://stinflay.github.io/css/sitemap.html.gz
+Sitemap: https://stinflay.github.io/data/sitemap.html.gz
+Sitemap: https://stinflay.github.io/includes/sitemap.html.gz
+Sitemap: https://stinflay.github.io/item/sitemap.html.gz
+Sitemap: https://stinflay.github.io/src/sitemap.html.gz
